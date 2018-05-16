@@ -1,6 +1,6 @@
 # English Learning Tools
 
-This repository was created to store some free online tools to learning English feel free to contribute to this list.
+This repository was created to store some free (or some features free) online tools to learning English feel free to contribute to this list.
 
 ## Websites
 
