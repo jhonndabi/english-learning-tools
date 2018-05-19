@@ -12,6 +12,10 @@ This repository was created to store some free (or some features free) online to
 
 [Write and Improve](https://writeandimprove.com)
 
+[YouGlish - Improve your pronunciation](https://pt.youglish.com/)
+
+
+
 ## Apps
 
 [Duolingo - Android](https://play.google.com/store/apps/details?id=com.duolingo)
@@ -19,3 +23,16 @@ This repository was created to store some free (or some features free) online to
 [Memrise - Android](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 
 [Speakingpal - Android](https://play.google.com/store/apps/details?id=com.speakingpal.speechtrainer.sp)
+
+[Textos Avançados - JR](https://play.google.com/store/apps/details?id=com.toniferreirasantos.jscourse&hl=pt_BR)
+
+
+
+## Youtube Channels
+
+[SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
+
+
+## Addons Browsers
+
+[Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
