@@ -31,12 +31,22 @@ This repository was created to store some free (or some features free) online to
 ## Youtube Channels
 
 [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
+https://www.youtube.com/user/engvidenglish
+https://www.youtube.com/playlist?list=PLAie3YzOYRmkIuEDUwyNmx1THFI7ouQHZ
+https://www.youtube.com/playlist?list=PLAie3YzOYRmley8mMYy1s9XuZYVxW1Ot7
 
 
 ## Addons Browsers
 
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 
+## PodCasts - DevEnglish
+
+http://bikeshed.fm/
+https://devchat.tv/
+https://www.eslpod.com/
+
 ## Links Extras
 
 https://gist.github.com/luizventurote/2fe0a42a674a0b84e4abf80d61ccf078
+https://ororo.tv/en/channels
