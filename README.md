@@ -36,3 +36,7 @@ This repository was created to store some free (or some features free) online to
 ## Addons Browsers
 
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
+
+## Links Extras
+
+https://gist.github.com/luizventurote/2fe0a42a674a0b84e4abf80d61ccf078
