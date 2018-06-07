@@ -31,9 +31,9 @@ This repository was created to store some free (or some features free) online to
 ## Youtube Channels
 
 [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
-https://www.youtube.com/user/engvidenglish
-https://www.youtube.com/playlist?list=PLAie3YzOYRmkIuEDUwyNmx1THFI7ouQHZ
-https://www.youtube.com/playlist?list=PLAie3YzOYRmley8mMYy1s9XuZYVxW1Ot7
+[engVid: Learn English](https://www.youtube.com/user/engvidenglish)
+[Beginner - English For You](https://www.youtube.com/playlist?list=PLAie3YzOYRmley8mMYy1s9XuZYVxW1Ot7)
+[Intermediate - English For You](https://www.youtube.com/playlist?list=PLAie3YzOYRmkIuEDUwyNmx1THFI7ouQHZ)
 
 
 ## Addons Browsers
@@ -48,5 +48,6 @@ https://www.eslpod.com/
 
 ## Links Extras
 
-https://gist.github.com/luizventurote/2fe0a42a674a0b84e4abf80d61ccf078
+[BigBlueButton - Your class Room at Internet](https://bigbluebutton.org/)
 https://ororo.tv/en/channels
+[More and More links](https://gist.github.com/luizventurote/2fe0a42a674a0b84e4abf80d61ccf078)
