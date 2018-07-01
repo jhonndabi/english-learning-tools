@@ -42,6 +42,8 @@ This repository was created to store some free (or some features free) online to
 
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 
+[Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
+
 ## Tips
 
 [How to install and use Anki](http://www.mairovergara.com/como-instalar-e-usar-o-anki/)
