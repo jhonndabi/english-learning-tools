@@ -15,6 +15,9 @@ This repository was created to store some free (or some features free) online to
 [YouGlish - Improve your pronunciation](https://pt.youglish.com/)
 
 
+## Dictionaries
+(WordReference)(http://www.wordreference.com/enpt/)
+
 
 ## Apps
 
