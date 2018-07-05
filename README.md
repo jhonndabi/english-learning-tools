@@ -16,7 +16,7 @@ This repository was created to store some free (or some features free) online to
 
 
 ## Dictionaries
-(WordReference)(http://www.wordreference.com/enpt/)
+[WordReference](http://www.wordreference.com/enpt/)
 
 
 ## Apps
