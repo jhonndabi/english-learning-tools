@@ -4,7 +4,7 @@ This repository was created to store some free (or some features free) online to
 
 ## Inspiration
 
-ROAD-MAP TO ENGLISH FLUENCY: PHONETICS -> LISTENING -> SPEAKING -> READING -> WRITING : from 8 month to 1 year (by studying 30 minutes a day seamlessly).😃😎
+ROAD-MAP TO ENGLISH FLUENCY: PHONETICS -> LISTENING -> SPEAKING -> READING -> WRITING : from 8 month to 1 year (by studying 30 minutes a day seamlessly).😃😎 (by Giorgi Bastos)
 
 ## Websites
 
