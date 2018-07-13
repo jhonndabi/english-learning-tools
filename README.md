@@ -39,11 +39,16 @@ ROAD-MAP TO ENGLISH FLUENCY: PHONETICS -> LISTENING -> SPEAKING -> READING -> WR
 
 [SmallAdvantages](https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag)
 
+[Carina Fragoso](https://www.youtube.com/user/carinafragozo)
+
+[Jackson Roger](https://www.youtube.com/user/aprenderinglesfree)
+
 [engVid: Learn English](https://www.youtube.com/user/engvidenglish)
 
 [Beginner - English For You](https://www.youtube.com/playlist?list=PLAie3YzOYRmley8mMYy1s9XuZYVxW1Ot7)
 
 [Intermediate - English For You](https://www.youtube.com/playlist?list=PLAie3YzOYRmkIuEDUwyNmx1THFI7ouQHZ)
+
 
 
 ## Addons Browsers
