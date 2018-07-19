@@ -76,4 +76,5 @@ https://ororo.tv/en/channels
 
 [Reverso Context - Writing](http://context.reverso.net/translation/)
 
+[Linguee - Writing](https://www.linguee.com.br/)
 
