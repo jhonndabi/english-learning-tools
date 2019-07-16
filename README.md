@@ -1,6 +1,6 @@
 # English Learning Tools
 
-This repository was created to store some free (or some features free) online tools to learning English feel free to contribute to this list.
+This repository was created to store some free (or some features free) online tools to learning English, feel free to contribute to this list.
 
 ## Websites
 
@@ -17,7 +17,6 @@ This repository was created to store some free (or some features free) online to
 [Mairo Vergara - Learn English with Youtube Videos](http://www.mairovergara.com/category/aprendendo-ingles-com-videos/)
 
 [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/)
-
 
 ## Apps
 
@@ -37,14 +36,17 @@ This repository was created to store some free (or some features free) online to
 
 [The English Coach](https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA/featured)
 
+[Carina Fragoso](https://www.youtube.com/user/carinafragozo)
 
-## Addons Browsers
+[engVid: Learn English](https://www.youtube.com/user/engvidenglish)
+
+## Browser Add-ons
 
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 
 [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 
-## Tips
+## Flashcards
 
 [How to install and use Anki](http://www.mairovergara.com/como-instalar-e-usar-o-anki/)
 
@@ -56,3 +58,8 @@ This repository was created to store some free (or some features free) online to
 
 [Linguee](https://www.linguee.com.br/?from=com)
 
+## Podcasts
+
+[Speak English Now](https://open.spotify.com/show/3BdVI2jDY4FRY4QKKbY1GM?si=xC4wShwBQEKa3fMOa9DSjA)
+
+[The voice of English](https://open.spotify.com/show/6Mld1BB5ePHf0ogYwZiD1R?si=tWhPeXDUQO22XgplajC0DQ)
