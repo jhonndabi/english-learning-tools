@@ -1,6 +1,6 @@
 # English Learning Tools
 
-This repository was created to store some free (or some features free) online tools to learning English feel free to contribute to this list.
+This repository was created to store some free (or some features free) online tools to learning English, feel free to contribute to this list.
 
 ## Websites
 
@@ -37,14 +37,13 @@ This repository was created to store some free (or some features free) online to
 
 [The English Coach](https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA/featured)
 
-
-## Addons Browsers
+## Browser Add-ons
 
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
 
 [Google Dictionary](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 
-## Tips
+## Flashcards
 
 [How to install and use Anki](http://www.mairovergara.com/como-instalar-e-usar-o-anki/)
 
@@ -55,4 +54,3 @@ This repository was created to store some free (or some features free) online to
 [Word reference](http://www.wordreference.com/)
 
 [Linguee](https://www.linguee.com.br/?from=com)
-
