@@ -18,7 +18,6 @@ This repository was created to store some free (or some features free) online to
 
 [BBC Learning English](http://www.bbc.co.uk/learningenglish/english/)
 
-
 ## Apps
 
 [Duolingo - Android](https://play.google.com/store/apps/details?id=com.duolingo)
@@ -37,6 +36,10 @@ This repository was created to store some free (or some features free) online to
 
 [The English Coach](https://www.youtube.com/channel/UC-g0gSStENkYPXFRsKrlvyA/featured)
 
+[Carina Fragoso](https://www.youtube.com/user/carinafragozo)
+
+[engVid: Learn English](https://www.youtube.com/user/engvidenglish)
+
 ## Browser Add-ons
 
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen)
@@ -54,3 +57,9 @@ This repository was created to store some free (or some features free) online to
 [Word reference](http://www.wordreference.com/)
 
 [Linguee](https://www.linguee.com.br/?from=com)
+
+## Podcasts
+
+[Speak English Now](https://open.spotify.com/show/3BdVI2jDY4FRY4QKKbY1GM?si=xC4wShwBQEKa3fMOa9DSjA)
+
+[The voice of English](https://open.spotify.com/show/6Mld1BB5ePHf0ogYwZiD1R?si=tWhPeXDUQO22XgplajC0DQ)
