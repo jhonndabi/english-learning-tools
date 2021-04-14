@@ -50,7 +50,7 @@ This repository was created to store some free (or some features free) online to
 
 [How to install and use Anki](http://www.mairovergara.com/como-instalar-e-usar-o-anki/)
 
-## Online Dictionary
+## Dictionaries
 
 [Oxford](https://en.oxforddictionaries.com/)
 
@@ -58,8 +58,16 @@ This repository was created to store some free (or some features free) online to
 
 [Linguee](https://www.linguee.com.br/?from=com)
 
+[dictionary.com](http://www.dictionary.com/)
+
 ## Podcasts
 
 [Speak English Now](https://open.spotify.com/show/3BdVI2jDY4FRY4QKKbY1GM?si=xC4wShwBQEKa3fMOa9DSjA)
 
 [The voice of English](https://open.spotify.com/show/6Mld1BB5ePHf0ogYwZiD1R?si=tWhPeXDUQO22XgplajC0DQ)
+
+## Extras Links
+
+[Ororo tv](https://ororo.tv/en/channels)
+
+[English Tips Gist](https://gist.github.com/luizventurote/2fe0a42a674a0b84e4abf80d61ccf078)
